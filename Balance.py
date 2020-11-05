@@ -4,9 +4,11 @@ class Balance:
         b == 0
 
     def add_right(self, a):
+        self.a == a
 
     def add_left(self, b):
-
+        self.b == b
+        
     def result(self):
         if self.a == self.b:
             return '='
